@@ -107,6 +107,8 @@ The assistant remembers
 ---
 <img width="1860" height="875" alt="Image" src="https://github.com/user-attachments/assets/abc05685-fe7e-4722-8285-a1fe87517b45" />
 
+<img width="1783" height="851" alt="Image" src="https://github.com/user-attachments/assets/305d1982-0f97-49b8-b1d6-a762988ac00e" />
+
 # 🏗 Architecture
 
 ```
