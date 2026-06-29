@@ -1,0 +1,7 @@
+2026-06-29 13:15:57 | INFO | memory.sqlite_memory:_init_db | SQLite database initialized successfully.
+2026-06-29 13:16:46 | INFO | agents.router_agent:route_and_process | ROUTER AGENT: Delegating prompt 'hii...' to target 'ExplainAgent'
+2026-06-29 13:16:48 | INFO | security.logging:log_agent_execution | AGENT=ExplainAgent | TOOL=process_request | STATUS=SUCCESS | TIME=1.922s | DETAILS=
+2026-06-29 13:17:37 | INFO | mcp.database_server:save_quiz | DB MCP: Saved quiz for topic 'Data Structures & Algorithms' (ID: 1)
+2026-06-29 13:17:37 | INFO | security.logging:log_agent_execution | AGENT=QuizAgent | TOOL=save_quiz | STATUS=SUCCESS | TIME=0.017s | DETAILS=
+2026-06-29 13:20:10 | INFO | agents.router_agent:route_and_process | ROUTER AGENT: Delegating prompt 'study plan...' to target 'PlannerAgent'
+2026-06-29 13:20:16 | INFO | security.logging:log_agent_execution | AGENT=PlannerAgent | TOOL=process_request | STATUS=SUCCESS | TIME=5.905s | DETAILS=
