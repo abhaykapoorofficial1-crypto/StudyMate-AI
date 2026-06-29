@@ -105,6 +105,7 @@ The assistant remembers
 * Learning progress
 
 ---
+<img width="1860" height="875" alt="Image" src="https://github.com/user-attachments/assets/abc05685-fe7e-4722-8285-a1fe87517b45" />
 
 # 🏗 Architecture
 
